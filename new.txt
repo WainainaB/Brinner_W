@@ -1,0 +1,4 @@
+PROGRAMMING
+It is the mental process of thinking up instructions to give to a machine (like a computer).
+CODING
+It is the process of transforming those ideas into a written language that a computer can understand.
